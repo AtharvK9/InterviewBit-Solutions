@@ -1,5 +1,5 @@
 class Solution {
-    // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
+  
     public int[] spiralOrder(final int[][] A) {
 
         List<Integer> res = new ArrayList();
